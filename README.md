@@ -1,10 +1,5 @@
 # Smart City Management System
 
-- Citizen Management System
-- Hospital Management System
-- Education Management System
-- Tourism Management System
-
 Welcome to the Smart City Management System project! This Java-based application is designed to streamline and enhance the management of various city services, providing a comprehensive solution for city administrators. The system includes modules for citizen management, hospital management, education management, and tourism management.
 
 ## Modules Included
